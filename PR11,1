@@ -1,0 +1,15 @@
+<HTML>
+    <HEAD>
+        <TItle>
+            INTERNAL JS
+        </TItle>
+
+    </HEAD>
+    <BODY>
+        <BUtton onclick="alert('hello all')">
+            CLICK HERE
+
+            
+        </BUtton>
+    </BODY>
+</HTML>
