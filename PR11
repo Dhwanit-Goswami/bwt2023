@@ -1,0 +1,27 @@
+<html>
+    <head>
+        <title>
+            JAVASCRIT
+        </title>
+        <script>
+            function demo(){
+                if(confirm ("are you sure?")==ture)
+            {
+            document.write('you have pressed ok');
+            }
+         
+         else
+         {
+            document.write("cancel pressed");
+         }
+         
+        }
+
+        </script>
+        
+    </head>
+    <body>
+        <button onclick="demo()"> click here</button>
+        
+    </body>
+</html>
